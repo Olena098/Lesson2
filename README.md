@@ -1,4 +1,4 @@
-let arr = [0]
+let arr = []
 
 arr [0] = 1
 arr [1] = "UKD"
