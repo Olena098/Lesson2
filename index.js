@@ -8,7 +8,7 @@ arr [4] = "undefiened"
 
 let me = {
 	name: "Olena",
-	sur: "Kalychak",
+	surname: "Kalychak",
 	age: 16,
 	from: "Lviv"
 }
